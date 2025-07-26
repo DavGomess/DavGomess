@@ -21,8 +21,13 @@
 
 
 ## 🧰 Tecnologias que uso com frequência
+<div>
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,nextjs,sass,git,github,postgres,mongodb,prisma&theme=dark" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width = '50px'/>
+</div>
+          
+          
+          
 
 ## Contatos
 <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
