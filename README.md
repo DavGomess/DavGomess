@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU++SOU+O+DAVID+GOMES)](https://git.io/typing-svg)
 
 
-##  Sobre Mim
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+## 🌍 Sobre Mim
+● Estudante de Análise e Desenvolvimento de Sistemas.
 
-🧠 focado em desenvolvimento web e sempre em busca de novos aprendizados e desafios.
+● focado em desenvolvimento web e sempre em busca de novos aprendizados e desafios.
 
-🚀 Buscando oportunidades para crescer profissionalmente e ampliar meus conhecimentos na prática.
+● Buscando oportunidades para crescer profissionalmente e ampliar meus conhecimentos na prática.
 
 
 
@@ -29,7 +29,7 @@
           
           
 
-## Contatos
+## ☎️ Contatos
 <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
 <a href="https://www.linkedin.com/in/seuusuario/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 
