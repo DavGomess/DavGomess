@@ -22,7 +22,7 @@
 
 ## 🧰 Tecnologias que uso com frequência
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,sass,git,github,postgres,mongodb,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,sass,bootstrap,git,github,postgres,mongodb,prisma&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width = '50px'/>
 </div>
           
