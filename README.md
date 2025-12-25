@@ -30,8 +30,8 @@
           
 
 ## ☎️ Contatos
-<a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
-<a href="https://www.linkedin.com/in/seuusuario/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+<a href="mailto:davidgcontato7@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://www.linkedin.com/in/DavGomess/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
